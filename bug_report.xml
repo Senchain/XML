@@ -1,1 +1,10 @@
 
+ <?xml version="1.0" encoding="UTF-8"?>
+ <bug_report>
+  <ID>email_23</ID>
+  <Title>Кнопка сохранить пароль не сохраняет пароль</Title>
+  <Preconditions>Зайти на сайт, форма регистрации нового пользователя</Preconditions>
+  <STR>Ввести свой email и придумать пароль, сохранить почту и пароль</STR>
+  <Result>Пройти успешно регистрацию, на почту долно прийти уведомление, что пароль сохранен на сайте</Result>
+  <Attachments>Screenshot-001.png</Attachments>
+</bug_report>
